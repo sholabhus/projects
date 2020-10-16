@@ -1,4 +1,7 @@
-import random, time
+import random
+import time
+
+
 def games():
     colour = ["Red", "Black"]  # colours of cards
     deck = []  #deck
